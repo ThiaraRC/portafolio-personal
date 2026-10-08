@@ -18,7 +18,7 @@ function Proyectos() {
           {/* reutilizo la tarjeta y cambio su contenido con props */}
           <Col md={4}>
             <TarjetaProyecto
-              imagen="techstore.jpg"
+              imagen="/portafolio-personal/techstore.jpg"
               titulo="TechStore"
               descripcion="Proyecto web realizado en un equipo de cuatro integrantes. Mi parte estuvo enfocada en la lógica y las validaciones del sitio, especialmente en formularios y comprobación de datos."
               tecnologias="HTML, CSS y JavaScript"
@@ -29,7 +29,7 @@ function Proyectos() {
 
           <Col md={4}>
             <TarjetaProyecto
-              imagen="portafolio-personal.jpg"
+              imagen="/portafolio-personal/portafolio-personal.jpg"
               titulo="Portafolio Personal"
               descripcion="Portafolio desarrollado con React para reunir mis proyectos, noticias y una sección de contacto. En este trabajo practiqué componentes, props, state, JSON, Bootstrap y pruebas unitarias."
               tecnologias="React, Bootstrap, JSON, Jasmine y Karma"
@@ -40,7 +40,7 @@ function Proyectos() {
 
           <Col md={4}>
             <TarjetaProyecto
-              imagen="gestor-tareas.svg"
+              imagen="/portafolio-personal/gestor-tareas.svg"
               titulo="Gestor de Tareas"
               descripcion="Ejercicio de práctica hecho con React para trabajar con state y eventos. Permite agregar tareas, cambiar su estado y eliminarlas desde una interfaz simple."
               tecnologias="React y Bootstrap"
