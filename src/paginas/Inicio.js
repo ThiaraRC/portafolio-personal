@@ -35,7 +35,7 @@ function Inicio() {
           <Col md={5}>
             <SobreMi
               nombre="Thiara"
-              foto="/portafolio-personal/foto-perfil.jpg"
+              foto="https://raw.githubusercontent.com/ThiaraRC/portafolio-personal/main/public/foto-perfil.jpg"
               descripcion="Soy proactiva, responsable y perseverante. Me gusta aprender haciendo y entender por qué funciona lo que estoy programando. Cuando aparece un problema trato de probar alternativas hasta encontrar una solución. También valoro el trabajo en equipo y seguir mejorando mis conocimientos en informática."
             />
           </Col>
