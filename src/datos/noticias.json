@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "seccion": "Aprendizaje",
+    "titulo": "Aprendiendo componentes en React",
+    "fecha": "05-10-2026",
+    "contenido": "Durante estas clases aprendí a dividir una aplicación en componentes para mantener el código más ordenado y reutilizable."
+  },
+  {
+    "id": 2,
+    "seccion": "Aprendizaje",
+    "titulo": "Trabajando con props y state",
+    "fecha": "06-10-2026",
+    "contenido": "He practicado el uso de props para enviar información entre componentes y state para manejar datos que pueden cambiar."
+  },
+  {
+    "id": 3,
+    "seccion": "Portafolio",
+    "titulo": "Creación de mi portafolio personal",
+    "fecha": "07-10-2026",
+    "contenido": "Estoy desarrollando un portafolio con React y Bootstrap donde reúno mis proyectos, noticias y una sección de contacto."
+  },
+  {
+    "id": 4,
+    "seccion": "Portafolio",
+    "titulo": "Diseño responsivo con Bootstrap",
+    "fecha": "07-10-2026",
+    "contenido": "Para organizar las páginas utilicé Container, Row y Col, permitiendo que el contenido se adapte a distintos tamaños de pantalla."
+  }
+]
