@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fff5f7"/>
+      <stop offset="100%" stop-color="#eef4ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="650" fill="url(#bg)"/>
+  <rect x="110" y="70" width="980" height="510" rx="34" fill="#ffffff" stroke="#eadfe2" stroke-width="3"/>
+  <text x="165" y="145" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#55705c">Gestor de Tareas</text>
+  <text x="165" y="188" font-family="Arial, sans-serif" font-size="22" fill="#7b837d">Organiza tus pendientes de forma simple</text>
+  <rect x="165" y="235" width="660" height="62" rx="18" fill="#fffafb" stroke="#edb8c0" stroke-width="2"/>
+  <text x="195" y="275" font-family="Arial, sans-serif" font-size="22" fill="#a3aaa5">Escribe una tarea...</text>
+  <rect x="845" y="235" width="175" height="62" rx="18" fill="#aec7aa"/>
+  <text x="883" y="274" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#304235">Agregar</text>
+  <rect x="165" y="335" width="855" height="62" rx="18" fill="#f7faf7"/>
+  <circle cx="202" cy="366" r="14" fill="#ffffff" stroke="#aec7aa" stroke-width="4"/>
+  <text x="235" y="374" font-family="Arial, sans-serif" font-size="22" fill="#4e5b52">Terminar actividad de React</text>
+  <rect x="165" y="417" width="855" height="62" rx="18" fill="#fff7f8"/>
+  <circle cx="202" cy="448" r="14" fill="#edb8c0"/>
+  <path d="M194 448 l6 6 l11 -14" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <text x="235" y="456" font-family="Arial, sans-serif" font-size="22" fill="#7e9683" text-decoration="line-through">Revisar apuntes</text>
+  <text x="165" y="535" font-family="Arial, sans-serif" font-size="19" fill="#c17886">Proyecto de práctica • React + Bootstrap</text>
+</svg>
