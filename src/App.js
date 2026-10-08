@@ -11,7 +11,7 @@ import DemoTareas from './paginas/DemoTareas';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/portafolio-personal">
       <BarraNavegacion />
 
       <Route exact path="/" component={Inicio} />
